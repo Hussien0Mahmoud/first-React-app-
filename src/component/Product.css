@@ -1,0 +1,14 @@
+
+.image {
+    height: 300px;
+    margin: auto;
+}
+
+.title {
+    height: 85px;
+    margin: auto;
+}
+.desc {
+    height: 150px;
+    overflow-y: scroll;
+}
